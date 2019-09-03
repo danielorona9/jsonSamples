@@ -1,0 +1,22 @@
+{
+    "data" : {
+        "id" : 0,
+        "foodar-username" : "foodar8",
+        "foodar-password" : "password#1",
+        "loggedIn" : false,
+        "firstName" : "John",
+        "lastName" : "Doe",
+        "address" : "331 Happy Lane",
+        "address2" : null,
+        "city" : "Jacksonville",
+        "state" : "Florida",
+        "zip" : "90643",
+        "age" : 23,
+        "email" : "foodar8@food.com",
+        "phone" : "555-555-5555",
+        "cc" : "1234098754638765",
+        "favFoods" : ["Chinese", "American"],
+        "theme" : "#d3d3d3",
+        "profile_image" : null
+    }
+}
